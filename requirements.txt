@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchtext
+spacy
+numpy
+tqdm
+portalocker>=2.0.0
