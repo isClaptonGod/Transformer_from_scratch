@@ -1,5 +1,4 @@
-# Transformer_from_scratch
-...
+
 # Transformer From Scratch (PyTorch)
 
 An implementation of "Attention Is All You Need" (Vaswani et al., 2017) focusing on readability and reproducibility for Machine Translation.
